@@ -1,0 +1,501 @@
+Item Number;Description;Manufacturer;Item Category;Product Group;Price;Inventory;Estimated lead time;Quality;EAN
+"0017L5-825";"Katana 17 B13VGK-825 - 17.3 144Hz Intel Core i7-13620H 16GBDDR5RAM 1TBSSD RTX 4070 FreeDOS";MSI;;Notebooks/Laptops;1351,97;49;in field warehouse;New;4711377126953
+"005048012.";"320GB ATA DISK 5,4K 520BPS";EMC;Server/Storage/Network;HDD;15,56;1;on stock;Refurbished;
+"005048847.";"HDD 146GB 15K 4G 3.5 InchFibre Channel Hot-Swap";EMC;Server/Storage/Network;HDD;9,08;2;on stock;Refurbished;5704174267133
+"005050550";"EMC 1TB 7.2K 2.5in 6G SAS HDD for VNX";EMC;;HDD;40,50;65;in field warehouse;Refurbished;
+"005050854";"EMC 600GB 15K 3.5in 6G SAS HDD for VNX";EMC;;HDD;67,50;188;in field warehouse;Refurbished;
+"005051644";"HDD - 1TB - 7.2K - 2.5in - 6G - SAS";EMC;;HDD;40,50;65;in field warehouse;Refurbished;
+"005052112";"7.68TB SSD 2.5 6G SAS 520 UNITY";EMC;Server/Storage/Network;HDD;810,00;15;in field warehouse;Refurbished;
+"005053142";"EMC 1.8TB 2.5 inch 10K 12G 4160 2580T Unity";EMC;;HDD;229,50;130;in field warehouse;Refurbished;
+"00AE682";"Intel Xeon Processor E5-2690 v3 12C 2.6GHz 30MB";Intel;Server/Storage/Network;Prozessoren/CPUs;13,50;64;in field warehouse;Refurbished;
+"00AE685";"Intel Xeon Processor E5-2660 v3 10C 2.6GHz 25MB Cache 2133MHz 105W";Lenovo;Server/Storage/Network;Prozessoren/CPUs;18,90;23;in field warehouse;Refurbished;
+"00AE807";"ServeRAID M5110 SAS/SATA Controller";IBM;Server/Storage/Network;Raid Controller;24,30;5;in field warehouse;Refurbished;
+"00AE912";"N2225 SAS/SATA HBA";Lenovo;Server/Storage/Network;Raid Controller;222,75;4;in field warehouse;Refurbished;0883436554275
+"00AG570";"Emulex VFA5.2 2x10 GbE SFP+ PCIe Adapter";Lenovo;Server/Storage/Network;Netzwerkadapter;121,50;43;in field warehouse;Refurbished;
+"00AG941";"2.5-inch HDD hot-swap backplane (expander)";Lenovo;Server/Storage/Network;Sonstiges;60,75;125;in field warehouse;Refurbished;5706998932457
+"00AJ081";"300GB 15K 6Gbps SAS 2.5in G3HS HDD";IBM;;HDD;128,25;18;in field warehouse;New;
+"00AJ082";"300GB 15K 6Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;128,25;18;in field warehouse;New;
+"00AJ095";"HDD - 600GB - 10K - 6Gbps - SAS - 2.5 Inch - G3HS";IBM;;HDD;15,30;2;on stock;Refurbished;
+"00AR323";"600GB 15K 2.5 V7000 SAS HDD";IBM;;HDD;33,75;50;in field warehouse;Refurbished;
+"00AR329";"SSD for  V7000 - 200 GB- internal - 2.5 Inch";IBM;Server/Storage/Network;SSD;99,00;2;on stock;New;5704174152835
+"00D4925";"Heatsink for Flex System x222";Lenovo;Server/Storage/Network;Kühler/Lüfter;10,00;2;on stock;New;
+"00D8540";"Emulex Dual Port 10GbE SFP+ VFA IIIr";Lenovo;Server/Storage/Network;Netzwerkadapter;20,25;28;in field warehouse;Refurbished;
+"00D9374";"MECHANICAL Gen-III Slide - 2/2";IBM;Server/Storage/Network;Rack-(Kits);47,25;65;in field warehouse;Refurbished;
+"00FG678";"Lenovo Flex System Redundant Chassis Management Module 2";Lenovo;Server/Storage/Network;Gehäuse;776,25;1;in field warehouse;Refurbished;
+"00FL158";"Intel Xeon Processor E5-2660 v3 10C 2.6GHz 25MB Cache 2133MHz 105W";Lenovo;Server/Storage/Network;Prozessoren/CPUs;18,90;23;in field warehouse;Refurbished;
+"00FN174";"6TB 7.2K 6Gbps NL SATA 3.5in G2HS 512e HDD";Lenovo;;HDD;155,25;12;in field warehouse;Refurbished;5706998928313
+"00FN189";"2TB 7.2K 12Gbps NL SAS 3.5in G2HS 512e HDD";Lenovo;;HDD;175,50;1;in field warehouse;New;
+"00HM615";"AC Adapter - 45W - 100-240 V - FRU";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;22,50;2;on stock;New Bulk;5712505816684
+"00HM663";"Power Supply for ThinkPad A285 A485E48X E58X, 300e Chromebook - 45W - 20V";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;17,45;30;on stock;New Bulk;4057657554369
+"00HM917";"ThinkPad Ultra Dock 40A2, 00HM917, SD20F82750";Lenovo;Notebook;Dockingstations/Port Replikatoren;87,75;51;in field warehouse;Refurbished;4560421211257
+"00HM918";"Port Replicator - ThinkPad Pro Dock - 90WEU - VGA - DVI - DP";Lenovo;Notebook;Dockingstations/Port Replikatoren;31,92;1;on stock;New;
+"00HN686";"Cable Camera for Touch";Lenovo;Notebook;Sonstige Kabel/Adapter;7,44;4;on stock;New;
+"00HT389";"Base Cover - BLK X250";Lenovo;Notebook;Gehäuse;8,43;2;on stock;New;5706998647351
+"00HT920";"FHD IPS BOE Slim LCD PanelGlare-Free - 15.6""";HP Inc.;Notebook;Displays & Zubehör;on request;on request;on request;New;
+"00JT530";"Network Adapter - - M.2 Card - 802.11acfor Thinkpad 13";Lenovo;Notebook;Ethernet-/Netzwerkzubehör;11,02;2;on stock;New;5704174536871
+"00KA516";"FAN - 5462 (x3650 M5) - HotSwap";Lenovo;Server/Storage/Network;Kühler/Lüfter;13,50;250;in field warehouse;Refurbished;
+"00KG038";"Intel Xeon Processor E5-2690 v3 - 12C - 2.6GHz - 30MB Cache - 2133MHz - 135W";Lenovo;Server/Storage/Network;Prozessoren/CPUs;13,50;24;in field warehouse;Refurbished;
+"00MM860";"Intel X550-T2 Dual Port 10GBase-T Adapter";Lenovo;Various;Netzwerkadapter;182,25;52;in field warehouse;Refurbished;0889488078158
+"00MM861";"Intel X550-T2 Dual Port 10GBase-T Adapter";Lenovo;Server/Storage/Network;Netzwerkadapter;182,25;52;in field warehouse;Refurbished;
+"00MU410";"Intel Xeon Processor E5-2667 v3 8C 3.2GHz 20MB Cache 2133MHz 135W";Lenovo;Server/Storage/Network;Prozessoren/CPUs;27,00;27;in field warehouse;Refurbished;
+"00MV219";"x3650 M4 - System Board v2";Lenovo;Server/Storage/Network;Mainboards/Systemboards;135,00;61;in field warehouse;Refurbished;
+"00MV291";"x240 M5 - Systemboard without embedded M5 Compute Node";Lenovo;Notebook;Mainboards/Systemboards;337,50;34;in field warehouse;Refurbished;
+"00MW544";"Controller - ThinkSystem SD530 - HW - RAID - 530-8i";Lenovo;Notebook;Mainboards/Systemboards;141,75;3;in field warehouse;Refurbished;
+"00MX930";"System x 750W High Efficiency Platinum AC Power Supply";IBM;Server/Storage/Network;Netzteile/Stromversorgung;33,75;10;in field warehouse;Refurbished;
+"00NA063";"2.8m, 10A/100-250V, C13 to IEC 320-C14 Rack Power Cable";Lenovo;Server/Storage/Network;Stromkabel;12,15;64;in field warehouse;New;
+"00NY829";"Mech Assembly ";Lenovo;Tablet/E-Book;Gehäuse;34,38;3;on stock;New;5706998649089
+"00PH281";"ThinkSystem M.2 32GB SATA 6Gbps Non-Hot Swap SSD";Lenovo;Server/Storage/Network;SSD;40,76;1;on stock;Refurbished;
+"00RY003";"Power supply V7000";IBM;Energy Supply;Netzteile/Stromversorgung;135,00;27;in field warehouse;Refurbished;
+"00UP706";"SSD - 256G - PCIE 3X4 - M.2 - NVMe 2280 ";Lenovo;Desktop;SSD;34,99;2;on stock;New Bulk;
+"00UR853";"Cable ASM Led Camera for T560";Lenovo;Notebook;Sonstige Kabel/Adapter;10,03;2;on stock;New;
+"00W1160";"600GB 10,000 rpm 6Gb SAS 2.5in HDD";IBM;;HDD;128,25;2;in field warehouse;Refurbished;
+"00WF660";"""Lenovo 2.5"""" Filler, Gen4 Kit""";Lenovo;Desktop;Gehäuse;6,75;937;in field warehouse;Refurbished;5711783985587
+"00WF662";"Lenovo SR550/590/650 - 8xSFF Filler Gen4";Lenovo;Server/Storage/Network;Sonstiges;27,00;24;in field warehouse;Refurbished;
+"00WG685";"300GB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;67,50;25;in field warehouse;Refurbished;0889488073634
+"00WG686";"300GB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;67,50;25;in field warehouse;Refurbished;
+"00WG690";"600GB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;101,25;7;in field warehouse;Refurbished;0889488073641
+"00WG691";"600GB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;101,25;7;in field warehouse;Refurbished;
+"00WG700";"1.2TB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;;HDD;87,75;92;in field warehouse;Refurbished;0889488073665
+"00WG704";"1.2TB 10K 12Gbps SAS 2.5in G3HS HDD";Lenovo;Server/Storage/Network;HDD;87,75;92;in field warehouse;Refurbished;
+"00Y2431";"900GB 2.5In 10K rpm 6Gb SAS Harddrive";IBM;;HDD;54,00;15;in field warehouse;Refurbished;
+"00Y3343";"QLogic 16Gb FC Dual-port HBA (2 x SFP)";Lenovo;;Netzwerkadapter;189,00;14;in field warehouse;Refurbished;
+"00Y4643";"V3700 V5000 G1 Node canister battery";IBM;Notebook;Akkus/Batterien;328,80;14;in field warehouse;Refurbished;
+"00Y5629";"QLogic 8Gb FC Dual-port HBA (2 x SFP)";Lenovo;Server/Storage/Network;Raid Controller;27,00;8;in field warehouse;Refurbished;
+"00Y8375";"x3550 M4 - System Board v2";IBM;Server/Storage/Network;Mainboards/Systemboards;398,25;9;in field warehouse;Refurbished;
+"00Y8499";"x3650 M4 - System Board v1";IBM;Server/Storage/Network;Mainboards/Systemboards;135,00;61;in field warehouse;Refurbished;
+"00YD968";"Intel Xeon Processor E5-2697v4 18C 2.3GHz 45MB Cache 2400MHz 145W";IBM;Server/Storage/Network;Prozessoren/CPUs;94,50;86;in field warehouse;Refurbished;
+"00YD969";"Intel Xeon Processor E5-2690 v4 14C 2.6GHz 35MB";IBM;;Prozessoren/CPUs;54,00;13;in field warehouse;Refurbished;
+"00YD970";"Intel Xeon Processor E5-2680 v4 14C 2.4GHz 35MB 2400MHz 120W";Lenovo;Notebook;Prozessoren/CPUs;33,75;22;in field warehouse;Refurbished;
+"00YD974";"Intel Xeon Processor E5-2630 v4 10C 2.2GHz 25MB 2133MHz 85W";IBM;Server/Storage/Network;Prozessoren/CPUs;6,75;134;in field warehouse;Refurbished;
+"00YG665";"Lenovo Storage 8TB 7.2K 3.5in NL-SAS HDD";Lenovo;;HDD;398,25;2;in field warehouse;New;
+"00YJ211";"Intel Xeon Processor E5-2699 v4 22C 2.2GHz 55MB Cache 2400MHz 145W";Lenovo;;Prozessoren/CPUs;270,00;68;in field warehouse;Refurbished;
+"00YJ785";"System Fan";Lenovo;Notebook;Kühler/Lüfter;2,50;1;on stock;Refurbished;
+"00YJ984";"System x 750W High Efficiency Platinum AC Power Supply";Lenovo;Server/Storage/Network;Netzteile/Stromversorgung;33,75;10;in field warehouse;Refurbished;
+"00YK012";"ThinkSystem 2.5in 900GB 15K SAS 12Gb Hot Swap 512e HDD";Lenovo;Server/Storage/Network;HDD;243,00;10;in field warehouse;Refurbished;
+"00YK013";"ThinkSystem 2.5in 300GB 10K SAS 12Gb Hot Swap 512n HDD";Lenovo;;HDD;114,75;14;in field warehouse;Refurbished;
+"00YK014";"ThinkSystem 2.5in 600GB 10K SAS 12Gb Hot Swap 512n HDD";Lenovo;;HDD;141,75;7;in field warehouse;Refurbished;
+"00YK025";"HDD - 1TB - 7.2K - SATA 6Gb - Hot Swap - 2.5 Inch";Lenovo;Server/Storage/Network;HDD;108,00;6;in field warehouse;Refurbished;
+"00YL553";"System x 550W High Efficiency Platinum AC Power Supply";Lenovo;Notebook;Netzteile/Stromversorgung;27,00;2;in field warehouse;Refurbished;
+"010DXV";"Battery PS4210 PS6210 010DXV";Dell;Server/Storage/Network;Akkus/Batterien;249,75;17;in field warehouse;New;
+"012DNW";"Raid-Controller - H200E - 6Gb/s - SAS";Dell;;Raid Controller;27,00;4;in field warehouse;Refurbished;
+"014X4H";"HDD 3.5 Zoll - 3000 GB - 7200 RPM";Dell;Desktop;HDD;20,62;2;on stock;Refurbished;4053162942493
+"01AC597";"1.2TB 10K 2.5 INCH HDD";IBM;;HDD;39,15;22;in field warehouse;Refurbished;
+"01AV421";"Laptop Battery - 3 Cells - 2095 mAh- 24 Wh - FRU for ThinkPad T470";Lenovo;Notebook;Akkus/Batterien;41,50;25;on stock;New Bulk;5706998650474
+"01AV422";"Laptop-Battery - Lithium ion - 2100mAh- 11.4V";Lenovo;Notebook;Akkus/Batterien;55,60;on request;arriving soon;New Bulk;5711783476665
+"01AV616";"LCD Silver AL Gasket";Lenovo;Notebook;Displays & Zubehör;34,09;1;on stock;New;5706998914903
+"01AW303";"Keyboard with Dockfor ThinkPad T460";IBM;Notebook;Notebook Ersatztastaturen;23,67;1;on stock;New;5706998929990
+"01AW304";"LCD Bezel with Camera for Thinkpad T460";Lenovo;Notebook;Gehäuse;9,42;2;on stock;New;5706998650641
+"01AW336";"Systemboard - Win i5 - 6300U - UMA - AMT- 3.0MHZ";Lenovo;Notebook;Mainboards/Systemboards;285,18;2;on stock;New;
+"01AW988";"Rear Cover with WWAN Noise";Lenovo;Notebook;Gehäuse;57,69;1;on stock;New;5704174207467
+"01AW992";"Rear Cover with Cu Sheet";Lenovo;Notebook;Gehäuse;59,49;1;on stock;New;
+"01AX557";"Keyboard for ThinkPad T470";Lenovo;Notebook;Notebook Ersatztastaturen;28,78;1;on stock;New;5706998654359
+"01AY047";"TrackPad CS16 2BCP - Mylar Black";Lenovo;Notebook;Gehäuse;13,58;1;on stock;New;5704174331261
+"01AY362";"Motherboard for ThinkPad - P50 - 20EN - 20EQ";Lenovo;Notebook;Mainboards/Systemboards;250,00;2;on stock;New;
+"01DC149";"Lenovo Power Supply, 584W, AC, HS";Lenovo;Notebook;Netzteile/Stromversorgung;282,15;3;in field warehouse;Refurbished;
+"01DC192";"HDD - 600GB - 15000rpm 2.5inch - SAS ";Lenovo;;HDD;108,00;80;in field warehouse;New;
+"01DC462";"SSD Storage - 400GB - 10DWD - 2.5 Inch - SAS ";Lenovo;Server/Storage/Network;HDD;268,65;20;in field warehouse;Refurbished;0889488425396
+"01DE355";"Lenovo Storage V3700 V2 1.8TB 2.5in 10K HDD";Lenovo;;HDD;222,75;30;in field warehouse;Refurbished;
+"01DE974";"ThinkSystem 32GB TruDDR4 2666 MHz (2Rx4 1.2V) RDIMM";Lenovo;Server/Storage/Network;Speichermodule/RAM;87,75;161;in field warehouse;Refurbished;
+"01DE975";"ThinkSystem 64GB TruDDR4 2666 MHz (4Rx4 1.2V) LRDIMM";Lenovo;Desktop;Speichermodule/RAM;141,75;185;in field warehouse;Refurbished;
+"01EN336";"SSD - 256GB -SATA III- 2.5 Inch - 600 MB/s";Lenovo;Desktop;SSD;49,36;1;on stock;New;5706998926111
+"01ER012";"Base Cover for ThinkPad T570";Lenovo;Notebook;Gehäuse;29,25;1;on stock;New;5706998916242
+"01FR026";"AC Adapter - 20V - 3.25A - 65W- 50-60 Hz";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;17,50;3;on stock;New Bulk;
+"01FR124";"Lite-On PA-1450-55LU - Power Supplyfor IdeaPad - 100-240V - 45W";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;17,50;on request;arriving soon;New Bulk;5706998663375
+"01FR133";"Power Adapter 45Wfor Ideapad 330-15";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;18,25;10;on stock;New Bulk;4062423054615
+"01FR146";"AC-Adapter - 65 W - Black";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;8,10;3;on stock;New Bulk;5056053085100
+"01FR159";"Power Adapter - 65W - 20V - 3.25A - Black";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;17,50;30;on stock;New Bulk;5706998656940
+"01GT443";"System Board Planar - x3650 M5 (8871)";IBM;Server/Storage/Network;Mainboards/Systemboards;121,50;139;in field warehouse;Refurbished;4058154234587
+"01GT444";"System Board Planar - x3550 M5 (8869)";Lenovo;Notebook;Mainboards/Systemboards;216,00;49;in field warehouse;Refurbished;
+"01GU632";"Lenovo Microsoft Windows Server 2016 Standard 2 additional cores";Lenovo;Various;Software/Lizenzen;100,00;1;on stock;New;
+"01HW539";"Systemboard for T470 - WIN i5-6300U";Lenovo;Notebook;Mainboards/Systemboards;129,60;1;on stock;New Bulk;5704174394761
+"01HX013";"Cover Palmrest Touchpad L540";Lenovo;Notebook;Gehäuse;39,22;3;on stock;New;
+"01HY214";"Cover C with FPR Sil";Lenovo;Notebook;Gehäuse;54,08;1;on stock;New;5706998916976
+"01HY219";"Cover Machanical Assembly";Lenovo;Notebook;Gehäuse;19,84;1;on stock;New;
+"01KN055";"8xSFF Backplane cable - SR530/SR630";Lenovo;Server/Storage/Network;Netzwerkkabel;47,25;1;in field warehouse;Refurbished;
+"01KN501";"ThinkSystem 430-16i SAS/SATA 12Gb HBA";Lenovo;;SSD;344,25;33;in field warehouse;Refurbished;
+"01KP650";"Heatsink - SR530/SR630/SR570/SN550 - Below 165W";Lenovo;Server/Storage/Network;Kühler/Lüfter;33,75;261;in field warehouse;Refurbished;
+"01KR354";"ThinkSystem 16GB TruDDR4 2933MHz (2Rx8 1.2V) RDIMM";Lenovo;Server/Storage/Network;Speichermodule/RAM;94,50;45;in field warehouse;Refurbished;
+"01KR465";"ThinkSystem M.2 5100 480GB SATA 6Gbps Non-Hot Swap SSD";Lenovo;;SSD;168,75;26;in field warehouse;Refurbished;
+"01M0D";"1.2TB 10K 2.5 SAS 12G AL15SEB120NY ME4 ME5 SERIES";Dell;;HDD;54,00;39;in field warehouse;Refurbished;
+"01NN110";"1.8TB 10K 2.5 Inch HDD";IBM;;HDD;133,65;86;in field warehouse;Refurbished;
+"01PE215";"System Board Planar - x3650 M5 (8871)";Lenovo;Notebook;Mainboards/Systemboards;121,50;139;in field warehouse;Refurbished;
+"01PE847";"SR650 - Systemboard Gen2";Lenovo;Server/Storage/Network;Server & Storage Systeme;675,00;18;in field warehouse;Refurbished;
+"01PF510";"Power Supply Acbel - 550W - 230Vac/115Vac - AC - Hot Swap";Lenovo;;Netzteile/Stromversorgung;141,75;4;in field warehouse;Refurbished;5715063150290
+"01YR248";"Motherboard for ThinkPad T580";Lenovo;Notebook;Mainboards/Systemboards;149,82;1;on stock;Refurbished;
+"02CL197";"Flash 840 900 Battery";IBM;Server/Storage/Network;Akkus/Batterien;on request;17;in field warehouse;Refurbished;
+"02DA168";"Touch Assy Screen - Full HDwith Cam Spare Part";Lenovo;Notebook;Displays & Zubehör;129,60;1;on stock;New;5706998959485
+"02HK906";"Antenna Kit for WLAN";Lenovo;Server/Storage/Network;Ethernet-/Netzwerkzubehör;17,91;2;on stock;New;
+"02HL420";"Mainboard i5-6300 HD WIN TPM AMT";Lenovo;Notebook;Mainboards/Systemboards;219,77;1;on stock;New;5704174307228
+"02JG529";"Lenovo M.2 5300 480GB 6GB/S SATA SSD";Lenovo;;SSD;202,50;9;in field warehouse;New Bulk;
+"02JG889";"SR630 - Systemboard Gen2";Lenovo;Server/Storage/Network;Mainboards/Systemboards;607,50;25;in field warehouse;Refurbished;
+"02JK971";"ThinkSystem 64GB TruDDR4 3200 MHz (2Rx4 1.2V) RDIM";Lenovo;Server/Storage/Network;Speichermodule/RAM;337,50;9;in field warehouse;New;
+"02R3X";"600GB 15K 3.5 SAS 6G EQL ST3600057SS";Dell;;HDD;74,25;4;in field warehouse;Refurbished;
+"02YE600";"Heatsink - SR650v2 - 4xHeatpipes Standard (7Z73)";Lenovo;Notebook;Kühler/Lüfter;81,00;23;in field warehouse;Neu;
+"03GX151";"FAN - SR650v2 (7Z73) - HotSwap - STANDARD";Lenovo;Server/Storage/Network;Kühler/Lüfter;54,00;3;in field warehouse;Refurbished;
+"03GY685";"Heatsink - SR650v2 - 4xHeatpipes Standard (7Z73)";Lenovo;Server/Storage/Network;Kühler/Lüfter;54,00;5;in field warehouse;New Bulk;
+"03KK302";"ThinkSystem 1100W (230V/115V) v2 Platinum Hot-Swap";Lenovo;Server/Storage/Network;Netzteile/Stromversorgung;290,25;1;in field warehouse;New;
+"03N5282";"73.4GB SCSI DD 15K RPM";IBM;Server/Storage/Network;HDD;2,50;1;on stock;Refurbished;
+"03N6347";"73.4G DASD";IBM;Server/Storage/Network;HDD;5,00;3;on stock;Refurbished;5711783174264
+"03T7039";"HDD - 250 GB - intern - 3.5 Inch- 7200 rpm - 16 MB for J10X";IBM;Desktop;HDD;8,92;1;on stock;New;5712505645314
+"03T8159";"Mainboard - US English with a Euro Symbol";Lenovo;Notebook;Mainboards/Systemboards;63,90;1;on stock;New;5712505770733
+"03T8760";"ThinkServer I350-T4 PCIe 1Gb 4Port Base-T Adapter";Lenovo;Server/Storage/Network;Netzwerkadapter;67,50;66;in field warehouse;Refurbished;
+"040-002-652";"EMC VNX 2.5in Drive Filler";EMC;Various;Sonstiges;12,00;2;on stock;Refurbished;
+"04G266010800";"Power Supply - AC 100-240 V - 120W- Black";Asus;Notebook;Notebook Ladegeräte/Netzteile;22,75;4;on stock;New Bulk;5704327866183
+"04W3651";"LCD Panel - 35,6 cm- 14 Z for T430";Lenovo;Notebook;Displays & Zubehör;37,46;1;on stock;New;5706998812117
+"04W3842";"Mobile Broadband - 3G - M.2 Card - 21 Mbpsfor ThinkPad 10";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;12,40;2;on stock;New;
+"04W6872";"MSC Kit Systemboard for T430";Lenovo;Notebook;Gehäuse;54,08;2;on stock;New;
+"04W6882";"Base Cover Asm";Lenovo;Notebook;Gehäuse;22,47;1;on stock;New;5711045759192
+"04X0380";"LCD - Bezel for ThinkPad T430";Lenovo;Notebook;Displays & Zubehör;8,18;5;on stock;New;
+"04X0438";"LCD Cover - ASM - Nozomi4for Thinkpad T430";Lenovo;Notebook;Displays & Zubehör;23,62;1;on stock;New;
+"04X0524";"Prince1Base Board";Lenovo;Notebook;Mainboards/Systemboards;33,05;1;on stock;New;5712505731628
+"04X0875";"Camera Cable for ThinkPad X240 X250";Lenovo;Notebook;Sonstige Kabel/Adapter;14,10;1;on stock;New;5712505064665
+"04X3740";"Systemboard for X230T ";Lenovo;Notebook;Mainboards/Systemboards;98,66;1;on stock;New;
+"04X3988";"Bottom Base Case for Thinkpad T440S Black";Lenovo;Notebook;Gehäuse;21,48;12;on stock;New;5706998659514
+"04X4699";"Thermal Module for Base";Lenovo;Notebook;Kühler/Lüfter;14,99;1;on stock;New;
+"04X4878";"Base Cover - Asm - 15W - ROW";Lenovo;Notebook;Gehäuse;21,99;2;on stock;New;5711783384458
+"04X5210";"Cover Frame Magnesium";Lenovo;Notebook;Gehäuse;17,19;1;on stock;New;
+"04X5360";"Bezel for Lenovo ThinkPad X240";Lenovo;Notebook;Displays & Zubehör;12,95;1;on stock;New;5706998659545
+"04X5424";"LCD Bezel for ThinkPad T440p- Black";Lenovo;Notebook;Displays & Zubehör;10,93;2;on stock;New;5712505420911
+"04X5555";"Cable for ThinkPad T540p W540";IBM;Notebook;Sonstige Kabel/Adapter;6,17;4;on stock;New;4054842466810
+"0505-003224";"Silicon - AO6405 - P - 30V - 5A,0";Samsung;Printer;Sonstige Druckerersatzteile;1,88;on request;on request;New;
+"0529FG";"HDD - 4TB - 7.2K - 3.5 - SAS - 6G - ST4000NM0023";Dell;Server/Storage/Network;HDD;47,25;125;in field warehouse;Refurbished;
+"0604-001325";"PHOTO-INTERRUPTER TR BK";Samsung;Printer;Sensoren;23,15;on request;on request;New;
+"0604-001381";"PHOTO-INTERRUPTER DIODE DIP";Samsung;Printer;Sensoren;24,67;on request;on request;New;
+"0604-001393";"PHOTO-INTERRUPTER TR 75MW BGA TR";Samsung;Printer;Sensoren;23,13;on request;on request;New;
+"0604-001490";"Photo-Interrupter Photodiode";Samsung;Printer;Sonstige Druckerersatzteile;11,10;on request;on request;New;
+"0609-001360";"CONTACT IMAGE SENSOR 216MM 5184DOT 1.5MS";Samsung;Printer;Sensoren;36,60;on request;on request;New;
+"0609-001408";"Contact Image Sensor - 218MM 103 68DOT - 0.5M";Samsung;Printer;Sensoren;31,53;on request;on request;New;
+"0609-001474";"CONTACT IMAGE SENSOR 219MM 10368DOT 0.18";Samsung;Printer;Sensoren;32,55;on request;on request;New;
+"0609-001573";"CONTACT IMAGE SENSOR 218MM 10352DOT 0.66";Samsung;Printer;Sensoren;62,19;on request;on request;New;
+"071-000-529";"EMC 875W PSU for VNX5300";EMC;Various;Netzteile/Stromversorgung;40,50;7;in field warehouse;Refurbished;
+"078-000-004";"Battery - 3.6V - Li-Ion - Isilon";EMC;Energy Supply;Akkus/Batterien;135,00;46;in field warehouse;Refurbished;
+"078-000-085";"EMC SPS 1200W with new batteries";EMC;Various;Netzteile/Stromversorgung;540,00;62;in field warehouse;Refurbished;
+"0787V9";"Secondary Riser Cage";Dell;Desktop;Gehäuse;5,83;1;on stock;Refurbished;
+"08Y92T";" Replacement Screen 15.5 HD";Dell;Notebook;Displays & Zubehör;3,64;1;on stock;Refurbished;
+"0944966-01";"300GB 15K 3.5 SAS 6G EQL ST3300657SS";Dell;;HDD;47,25;3;in field warehouse;Refurbished;
+"0957-2231";"UNIVERSAL POWER SUPPLY";HP Inc.;Printer;Netzteile/Stromversorgung;on request;on request;on request;New;
+"0957-2260";"Power Supply - 100-240V - 32V- 180W";HP Inc.;Printer;Netzteile/Stromversorgung;on request;on request;on request;New;5704174191483
+"0957-2262";"AC/DC POWER SUPPLY 64W";HP Inc.;Printer;Netzteile/Stromversorgung;on request;on request;on request;New;
+"0957-2271";" Power Adapter - 100-240 V - 50 W       for 6000";HP Inc.;Notebook;Notebook Ladegeräte/Netzteile;on request;on request;on request;New Bulk;5712505048276
+"0957-2271";" Power Adapter - 100-240 V - 50 W       for 6000";HP Inc.;Notebook;Notebook Ladegeräte/Netzteile;on request;on request;on request;New;5712505048276
+"0957-2286";"PWR AC-DC ADAPTER ROHS";HP Inc.;Printer;Netzteile/Stromversorgung;on request;on request;on request;New;
+"0957-2286 OEM";"AC Adapter - PWR for Deskjet 1050 1000 2050 ";HP Inc.;Printer;Netzteile/Stromversorgung;10,64;78;on stock;New;5711783616054
+"0957-2291";"Power Supply 100-240V - 15 Wfor 4370 Photo Scanner";HP Inc.;Printer;Netzteile/Stromversorgung;2,26;59;on stock;New;
+"0957-2292";"24VDC/36W  3-WIRE AC";HP Inc.;Printer;Sonstige Druckerersatzteile;on request;on request;on request;New;
+"0957-2304";"PWR SPLY AC/DC ADAPTER JASPER ROHS";HP Inc.;Printer;Netzteile/Stromversorgung;29,34;on request;on request;New;5055833502523
+"0957-2481";"Power Brk Unit- 12VDC - 15W";HP Inc.;Printer;Netzteile/Stromversorgung;34,34;on request;on request;New;5704174152187
+"0976240-02";"300GB 15K 2.5 SAS 6G COMPELLENT ST9300653SS Xyratek";Dell;Server/Storage/Network;HDD;20,25;18;in field warehouse;Refurbished;
+"0978526-01";"900GB 10K 2.5 SAS 6G EQL HUC109090CSS600";Dell;Desktop;HDD;27,00;2;on stock;Refurbished;
+"0990FD";"HDD - 600GB - 15K rpm - 6G - SAS - 2.5 Inch";Dell;;HDD;33,75;33;in field warehouse;Refurbished;
+"0A36190";"USB Soundbar - 2.5W - Stereo";Lenovo;Notebook;Lautsprecher/Audiosysteme;28,50;6;on stock;New;
+"0A36231";"AC Adapter - 170 W for W520";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;47,03;5;on stock;New Bulk;885976210888
+"0A36262";"Power Supply - AC Adapter forThinkPad - 65W";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;13,00;4;on stock;New Bulk;887770572865
+"0A36302";"Laptop-Battery - 57Wh - 6 Cells- Lithium Polymer";Lenovo;Notebook;Akkus/Batterien;29,90;43;on stock;New Bulk;886843359792
+"0A36303";"Battery - Lithium-Ion - 9 Cells - 94Wh";Lenovo;Notebook;Akkus/Batterien;69,50;1;on stock;New Bulk;0886843359808
+"0A36305";"Laptop Battery - 29Wh - 4 Cells - Lithium Polymer";Lenovo;Notebook;Akkus/Batterien;24,79;11;on stock;New Bulk;0886843359822
+"0A36306";"Laptop Battery for ThinkPad X220 / X220iX230 / X230i - 6 Cell - 11.1 V - 63Wh";Lenovo;Notebook;Akkus/Batterien;26,13;3;on stock;New Bulk;0886843359839
+"0A36307";"Laptop Battery - 94Wh- 9 Cells - Lithium-Ion";Lenovo;Notebook;Akkus/Batterien;56,32;5;on stock;New Bulk;0886843359846
+"0A36311";"Laptop Battery for ThinkPad E440 E540& Edge E430 E431 E530 E531 E535 E545";Lenovo;Notebook;Akkus/Batterien;71,25;6;on stock;New Bulk;886843359884
+"0B110-00231100";"Laptop Battery - A41-X550A - 37WH- 2570 MAH";Asus;Notebook;Akkus/Batterien;22,00;42;on stock;New Bulk;
+"0B110-00350300";"Laptop Battery - 33Wh - Li-ion - 14.8V- 2200mAh";Asus;Notebook;Akkus/Batterien;11,67;4;on stock;New Bulk;5706998636430
+"0B200-01800200";"Battery - C21N1515 - 38WHR753UX- T4233T ";Asus;Notebook;Akkus/Batterien;16,20;2;on stock;New Bulk;
+"0B24475";"HDD - 300GB - 15K - RPM- SAS - 3.5 Inch";HP Inc.;Desktop;HDD;on request;on request;on request;New;
+"0B24475";"HDD - 300GB - 15K - RPM- SAS - 3.5 Inch";HP Inc.;Desktop;HDD;6,48;7;on stock;Refurbished;
+"0B32212-COMPELLENT";"1.92TB SSD 2.5 SAS 12G RI Compelle HUSMR1619ASS200";Dell;Server/Storage/Network;SSD;330,75;25;in field warehouse;Refurbished;
+"0B46998";"AC Adapter for ThinkPad - 90W - Slim Tip";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;23,50;155;on stock;New Bulk;0887037251588
+"0B46998";"AC Adapter for ThinkPad - 90W - Slim Tip";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;27,45;22;on stock;New;0887037251588
+"0B47036";"ThinkPad 45Watt Power Supply Adapter";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;18,50;2;on stock;New;0887456458353
+"0B47069";"Monitor Adapter Cable - HDMI to VGA ";Lenovo;Notebook;Display Kabel & Anschlüsse;13,90;2;on stock;New;0887037480414
+"0B47484";"ThinkPad - 65W - AC Adapter SlimRectangular Tip - Euro Power Cord";Lenovo;Notebook;Notebook Ladegeräte/Netzteile;22,90;5;on stock;New;0887770626193
+"0F382X";"Adapter Cable USB-C to USB-A 3.0 ";Dell;Notebook;Notebook Ladegeräte/Netzteile;5,40;1;on stock;New;
+"0F455D";"500GB 7.2K 2.5 SATA 6G 0F455D";Dell;Server/Storage/Network;HDD;22,95;12;in field warehouse;Refurbished;
+"0FK3C";"600GB 10K 2.5 SAS 6G EQL ST600MM0006";Dell;;HDD;13,50;192;in field warehouse;Refurbished;
+"0HN7VH";"HDD - 320GB - SATA - 7.2K 2.5 Inch";Dell;Desktop;HDD;44,06;1;on stock;New;
+"0K20K";"4TB 7.2K 3.5 SATA 6G WD4000FYYZ";Dell;;HDD;81,00;29;in field warehouse;Refurbished;
+"0KV02";"1.2TB 10K 2.5 SAS 12G HUC101812CSS200";Dell;;HDD;60,75;2;in field warehouse;Refurbished;
+"0NJF90";"Riser Card";Dell;Server/Storage/Network;Riser-Boards;9,80;1;on stock;Refurbished;
+"0PGDX";"Fan - Assembly - Poweredge - R820";Dell;Server/Storage/Network;Kühler/Lüfter;5,00;5;on stock;New;
+"0RVDT";"300GB 15K 2.5 SAS 12G AL13SXB30EN";Dell;;HDD;20,25;88;in field warehouse;Refurbished;
+"0T857K";"450 GB 15K 3.5 SAS 6G HUS156045VLS600";Dell;Server/Storage/Network;HDD;33,75;8;in field warehouse;Refurbished;
+"0V8G9";"1TB 7.2K 3.5 SAS 6G WD1000FYYG";Dell;;HDD;27,00;19;in field warehouse;Refurbished;5711045218460
+"0VM02C";"H710 6Gb/s SAS 512MB PCI-E";Dell;Server/Storage/Network;Raid Controller;20,00;1;on stock;Refurbished;
+"0VT6G4";"PSU 870W R710 T610 NX3000 NX3100";Dell;Desktop;Netzteile/Stromversorgung;27,00;27;in field warehouse;Refurbished;4053162953437
+"0W347K";"HDD - 600GB - 15K - 3.5 - SAS - 6G - 16MB - ST3600057SS";Dell;Server/Storage/Network;HDD;108,00;80;in field warehouse;Refurbished;
+"0WRRF";"1.8TB 10K 2.5 SAS 12G AL15SEB18EQY ME4 SERIES";Dell;;HDD;135,00;22;in field warehouse;Refurbished;
+"1000210";"ADAPT 360 - Headset - white - w/dongle - BT";Sennheiser;Desktop;Kopfhörer/Headsets;124,00;12;on stock;New;5714708000112
+"1000300";"Headset Impact SDW 5011 - 5000 Series";Sennheiser;Desktop;Kopfhörer/Headsets;75,00;16;on stock;New;5714708001010
+"1000516";"Headset - Impact - SC230 USB - 200 Series";Sennheiser;Desktop;Kopfhörer/Headsets;21,50;12;on stock;New;5714708003175
+"1000650";"Headset - Impact SC 660 - ANC - USB";Sennheiser;Desktop;Kopfhörer/Headsets;135,00;8;on stock;New;5714708004516
+"1000897";"Headset Adapt 261 - On-Ear - Bluetooth- Wireless - USB-C - Black";Sennheiser;Desktop;Kopfhörer/Headsets;78,90;14;on stock;New;5714708006985
+"1000907";"ADAPT 135 II - Headset - On-Ear - Wired - Black";Sennheiser;Desktop;Kopfhörer/Headsets;1583,91;7;in field warehouse;New;5714708007081
+"100-100000065BOX";"CPU Ryzen 5 5600X - 3.7GHz - 6 Core - AM4 - PIB with Cooler";AMD;Server/Storage/Network;Prozessoren/CPUs;168,99;6;in field warehouse;New;0730143312042
+"100-100000589WOF";"Ryzen 9 7900X Processor - 4.7 Ghz - 64 Mb - L3 - Box";AMD;;Prozessoren/CPUs;412,94;12;in field warehouse;New;0730143314558
+"100-100000651WOF";"Ryzen 7 5800X3D - 3.4 GHz - 8 Core - 16 Threads - AM4";AMD;;Prozessoren/CPUs;378,84;3;in field warehouse;New;0730143313797
+"100-538-101";"EMC Unity 2U Bezel";EMC;Server/Storage/Network;Gehäuse;33,75;3;in field warehouse;Refurbished;
+"100613-008";" POWER CORD UK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"100613-008";" POWER CORD UK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"100613-008";" POWER CORD UK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;Refurbished;
+"100613-015";" POWERCORD UK ";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"100613-015";" POWERCORD UK ";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"100613-016";" CABLE POWER AC UK";HP Inc.;Printer;Sonstige Kabel/Adapter;on request;on request;on request;New Bulk;
+"100613-016";" CABLE POWER AC UK";HP Inc.;Printer;Sonstige Kabel/Adapter;on request;on request;on request;New;
+"100614-009";"Cable for ProLiant ML110 G5, ML110 G6";HP Inc.;Server/Storage/Network;Sonstige Kabel/Adapter;42,87;on request;on request;New;
+"108-00222";"NetApp 900GB SAS 6G 10K SFF HDD";NetApp;;HDD;13,50;645;in field warehouse;Refurbished;
+"108-00270";"NetApp 2TB SATA 7.2K LFF HDD";NetApp;;HDD;27,00;153;in field warehouse;Refurbished;
+"109197-008";" POWER CORD 1.8M LONG";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"109197-008";" POWER CORD 1.8M LONG";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"10DR3";"HDD - 600GB - SAS 10000 rpm - 2.5inch";Dell;Server/Storage/Network;HDD;20,25;80;in field warehouse;Refurbished;5711783501282
+"110-140-104B";"EMC VNX5100 Storage Processor";EMC;Various;Prozessoren/CPUs;135,00;31;in field warehouse;Refurbished;
+"1109-001420";"Ic-Memory Card - 4GB - Microsd";Samsung;Printer;Druckerelektronik/Platinen;11,04;on request;on request;New;5704174842699
+"112-00297";"Cable SFP+ to SFP+ - 0.5M";NetApp;Server/Storage/Network;Netzwerkkabel;33,75;2;in field warehouse;Refurbished;
+"11C2950";"Forms Printer 2590n - - s/w";Lexmark;Printer;Druckergeräte;on request;on request;on request;New;0734646319980
+"11NA000DGE";"ThinkEdge SE30 11NA - USFF - Core i5 1145GRE 1.5 GHz";Lenovo;;Workstations/Rechner;1155,44;4;in field warehouse;New;0195890237855
+"11RR0001GE";"V55t Gen 2-13ACN Tower - Ryzen5 5600G. 8GB RAM. 256GB SSD. Win10 Pro";Lenovo;;Workstations/Rechner;432,00;81;in field warehouse;New;0195890954653
+"11SX0060GE";"ThinkCentre Neo 50s SFF 11SX0060GE - Intel i3-12100, 8GB RAM, 256GB SSD";Lenovo;;Workstations/Rechner;453,77;8;in field warehouse;New;0196803759587
+"11T300BLGE";"ThinkCentre M70q Tiny 11T300BLGE - Intel i3-12100T. 8GB RAM 128GB SSD Intel UHD 730. DOS";Lenovo;Desktop;Workstations/Rechner;302,51;49;in field warehouse;New;0196804867007
+"1200G-2USB-1";"Voyager - 1200g - Cable - W. Stand";Honeywell;Various;Handheld Scanner;62,40;188;in field warehouse;New;5711045229657
+"1203RA0UN0";"Paper Feeder - PF-1100";Kyocera;Printer;ADF/Papierzufuhr;on request;on request;on request;New;
+"120672-B21";"Rack Ballast - for Rack 91XX";HP Enterprise;Server/Storage/Network;Sonstiges;on request;on request;on request;New;
+"121500040";"Batterie - 6Cell - 4100mAh - Li-Ion";Lenovo;Notebook;Akkus/Batterien;59,00;2;on stock;New Bulk;5711045961021
+"121500042";"Battery - 6Cell - 4100mAh - Li-Ion";Lenovo;Notebook;Akkus/Batterien;39,33;2;on stock;New Bulk;5712505140222
+"121500047";"Battery - 4.400mAh - 10.8V";Lenovo;Notebook;Akkus/Batterien;39,69;4;on stock;New Bulk;5712505517390
+"121500104";"Laptop Battery - 14.8V - 32WH - 2200mAh";Lenovo;Notebook;Akkus/Batterien;15,40;10;on stock;New Bulk;5711045934247
+"121500171";"Laptop Battery - 4 Cells - 41Wh -  14.4 V - for G40-10G70-70  IdeaPad S410p Touch";Lenovo;Notebook;Akkus/Batterien;45,45;18;on stock;New Bulk;5711045954856
+"121500172";"Laptop Battery - 42Wh  - 4 Cell- 14.4V - 2.900mAh ";Lenovo;Notebook;Akkus/Batterien;37,24;7;on stock;New Bulk;5711045909092
+"121500174";"Battery - 32WH - 4 Cell - 2200 mAhfor IdeaPad S410p";Lenovo;Notebook;Akkus/Batterien;39,00;10;on stock;New Bulk;5712505238592
+"121500175";"Notebook Battery - 4 Cell - 32Wh- 2222 mAh";Lenovo;Notebook;Akkus/Batterien;29,84;34;on stock;New Bulk;5712505241264
+"123482-005";"FAN ASSEMBLY 4200/4300";HP Enterprise;Server/Storage/Network;Kühler/Lüfter;on request;on request;on request;New;
+"123482-005";"FAN ASSEMBLY 4200/4300";HP Enterprise;Server/Storage/Network;Kühler/Lüfter;on request;on request;on request;Refurbished;
+"12CE001UGE";"ThinkCentre neo 30a 24 12CE - All-in-One - Core i3 1215U - RAM 8GB - SSD 256 GB";Lenovo;;Workstations/Rechner;529,42;49;in field warehouse;New;0196802889568
+"12GYY";"4TB 7.2K 3.5 SAS 6G MG03SCA400";Dell;Server/Storage/Network;HDD;47,25;125;in field warehouse;Refurbished;4053162935808
+"12H34EA ABD";"T540 - Thin Client - USFF - Ryzen EmbeddedR1305G - 1.5 GHz";HP Inc.;Desktop;Workstations/Rechner;on request;on request;on request;Refurbished;0195697272752
+"12H34EA ABD";"T540 - Thin Client - USFF - Ryzen EmbeddedR1305G - 1.5 GHz";HP Inc.;Desktop;Workstations/Rechner;on request;on request;on request;New;0195697272752
+"130627-008";" CORD PWR AC-LINE-DAN 1.8M";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"130627-008";" CORD PWR AC-LINE-DAN 1.8M";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"13GNDO1AP010-1";"Laptop ODD Bezel";Asus;Notebook;Gehäuse;6,61;1;on stock;New;
+"13L53AA";"VGA-Connector - Flex IO V2 Cardfor EliteDesk 800 G6 805 G6 ";HP Inc.;Desktop;Display Kabel & Anschlüsse;7,74;on request;on request;New;0194850902451
+"13L55AA";"Flex IO V2 Card - HDMI Port for EliteDesk800 G6 805 G6 - ProDesk 400 G6";HP Inc.;Desktop;Display Kabel & Anschlüsse;11,83;2;on stock;New;0194850902499
+"13L56AA";"Flex IO V2 Card forEliteDesk 800 G6";HP Inc.;Desktop;Display Kabel & Anschlüsse;on request;on request;on request;New;194850902512
+"13L60AA";"USB-C 3.1 Port for Elitedesk 800 G6 ";HP Inc.;Desktop;USB-Kabel/Adapter;23,00;2;on stock;New;0194850902598
+"13L67AA";"Dual VESA Sleeve v3 Desktop Sleeves";HP Inc.;Desktop;Ständer & Wandhalterungen;14,50;14;on stock;New;194850902673
+"13L68AA";"DM Dual VESA Slv v3 w/ PSH";HP Inc.;Desktop;Ständer & Wandhalterungen;24,80;7;on stock;New;0194850902697
+"13L70AA";"DM 2.5 SATA Drive Bay kit v2";HP Inc.;;HDD/SSD Rahmen;on request;on request;on request;New;0194850902734
+"13L74AA";"Memory 16GB DDR4-3200 UDIMM";HP Inc.;Desktop;Speichermodule/RAM;69,00;1;on stock;New;194850902802
+"13L75AA";"DDR4 - Modul - 16 GB - SO DIMM 260-PIN - 3200 MHz - 1.2 V for G2";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850902826
+"13L76AA";"Memory Module - DDR4 - 8 GB- DIMM 288-PIN - 3200 MHz";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850902840
+"13L77AA";"Memory Module - DDR4 - 8GB - SODIMM 260-PIN - 3200 MHz ";HP Inc.;Desktop;Speichermodule/RAM;38,20;3;on stock;New;194850902864
+"13L78AA";"Memory Module - 4 GB - DIMM 288-PIN- 3200MHz - 1.2V";HP Inc.;Desktop;Speichermodule/RAM;23,49;2;on stock;New;0194850902888
+"13L79AA";"Memory Module - DDR4 - 4 GB - SO DIMM 260-PIN- 3200 MHz / PC4-25600 - 1.2 V";HP Inc.;Desktop;Speichermodule/RAM;23,22;2;on stock;New;0194850902901
+"13NB0628L01021";"X555LD-7K Clickpad Mylar";Asus;Notebook;Gehäuse;6,61;1;on stock;New;5704174593768
+"1400G2D-2USB-1";"Voyager - 1400g - Cable - W. Stand";Honeywell;Various;Handheld Scanner;69,60;102;in field warehouse;New;4054318735983
+"1404-001141";"Thermistor-NTC - 5.6kOhm - 3200 K";Samsung;Printer;Sonstige Druckerersatzteile;1,88;on request;on request;New;5704327931690
+"141H2AA";"Memory modules - 16 GB - DIMM 288-PIN- 3200 MHz / PC4-25600 - 1.2 V - DDR4 ";HP Inc.;Desktop;Speichermodule/RAM;53,01;2;on stock;New;0194850902987
+"141H3AA";"Memory Module - DDR4 - 16GB - DIMM288-PIN - 3200 MHz";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850903007
+"141H4AA";"Memory Module - DDR4 - 16GB - SODIMM 260-PIN - 3200 MHz";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850903021
+"141H5AA";"Memory Module - DDR4 - Modul - 16 GB- SO DIMM 260-PIN - 3200 MHz";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850903045
+"141H6AA";"Memory Module - 32 GB - SO DIMM 260-PIN - 3200 MHz - DDR4 ";HP Inc.;Notebook;Speichermodule/RAM;on request;on request;on request;New;194850903069
+"141H8AA";"Memory module - 32 GB - SO DIMM 260-PIN - 3200 MHz / PC4-25600";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;0194850903106
+"141H9AA";"Memory module - 32 GB - DIMM 288-PIN- 3200 MHz - DDR4 ";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;0194850903120
+"141J0AA";"Memory Module - 4 GB - SO DIMM 260-PIN- 3200 MHz - DDR4";HP Inc.;Desktop;Speichermodule/RAM;23,05;2;on stock;New;0194850903144
+"141J4AA";"Memory Module - DDR4 - 8GB - DIMM288-PIN - 3200 MHz";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850903229
+"141J5AA";"DDR4 - Modul - 8 GB - SO DIMM 260-PIN - 3200 MHz PC4-25600 - 1.2 V - unbuffered - non-ECC";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;194850903243
+"141J6AA";"LAN-Port  Flex 2020 for WorkstationZ2 G5 Z2 G8 Z2 G9 Z2 Mini G5";HP Inc.;Server/Storage/Network;Ethernet-/Netzwerkzubehör;on request;on request;on request;New;0194850903267
+"141J8AA";"Dual USB-A 3.2 Gen1 Flex 2020 ";HP Inc.;Desktop;USB-Kabel/Adapter;on request;on request;on request;New;0194850903304
+"141J9AA";"Flex Port 2020 Mini 2 x USB 3.2 Gen1 port";HP Inc.;Server/Storage/Network;Ethernet-/Netzwerkzubehör;on request;on request;on request;New;0194850903328
+"141K2AA";"Mini Serial Upper Flex 2020 Mini";HP Inc.;Desktop;Display Kabel & Anschlüsse;10,00;4;on stock;New;0194850903380
+"141L0AA";"Dust Filter for Workstation  Z2 G5 - SFF";HP Inc.;Desktop;Kühler/Lüfter;5,27;4;on stock;New;
+"141L3AA";"Dust Filter and bezel Z2 Tower ";HP Inc.;Desktop;Gehäuse;on request;on request;on request;New;0194850903601
+"141M5AA";"SSD - 512GB - intern - M.2 2280- PCI Express 3.0 x4";HP Inc.;Desktop;SSD;75,46;2;on stock;New;0194850903847
+"145500121";"Linecord - USB-Cable - 1.85m";Lenovo;Notebook;USB-Kabel/Adapter;8,21;5;on stock;New Bulk;5712505262269
+"1470G2D-2USB-1-R";"Barcode-Scanner Voyager Extreme Performance 1470g - USB";Honeywell;Various;Handheld Scanner;74,40;308;in field warehouse;New;5706998881328
+"15101";"Polycarbonat - 2P - PE - 6 h - 16 A";Extreme;Desktop;Gehäuse;7,78;1;on stock;Refurbished;4024941151016
+"15410";"Kuando Busylight UC Omega - Presence, Ringer and Notification Busy Indicator to Headphone";Sonstiges;Garden;Beleuchtungstechnik;60,80;2;in field warehouse;New;5707064154100
+"15R0120";"Media Tray and Storage - 2000 Sheets Dual Inputfor W840 W850 X85X X86X";Lexmark;Printer;Fächer/Einzüge;180,00;3;on stock;New;0734646255615
+"169K0AA";"Flex Port - LAN-Port - 2.5Gb- for Workstation Z2 ";HP Inc.;Desktop;Netzwerkkabel;20,00;8;on stock;New;
+"16U00AA";"Mounting set - mountable on the monitor";HP Inc.;;Gehäuse;22,90;11;on stock;New;0195122062996
+"16U37AA";"SD Card Reader for Workstation Z2 G5";HP Inc.;Desktop;Kartenleser;39,36;5;on stock;New;0195122038489
+"1702F78EU0";"MK-440(E)/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;607,70;on request;on request;New;0632983007211
+"1702F88EU0";"MK-310(E)/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;415,09;on request;on request;New;0632983007198
+"1702F98EU0";"MK-320 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;400,67;on request;on request;New;0632983007204
+"1702G13EU1";"Maintenance Kit - MK-710";Kyocera;Printer;Maintenance-Kits;882,61;6;on stock;New;0632983058183
+"1702GN8NL0";"MK-715 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;452,92;on request;on request;New;0632983009826
+"1702GR8NL0";"MK-716 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;441,87;on request;on request;New;0632983009833
+"1702H98EU0";"MK-130 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;112,17;on request;on request;New;0632983014318
+"1702HP0UN0";"Attachment Kit AK-715 for FS-C8100DN";Kyocera;Printer;Sonstige Druckerersatzteile;47,50;1;on stock;New;0632983009451
+"1702J08EU0";"Maintenance Kit for FS-2020D";Kyocera;Printer;Maintenance-Kits;168,00;1;on stock;New;0632983014158
+"1702J28EU0";"MK-360 Maintenance Kit for ECOSYSLS 4020DN";Kyocera;Printer;Maintenance-Kits;184,76;on request;on request;New;5711045444005
+"1702J58EU0";"MK-450 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;607,29;on request;on request;New;0632983014172
+"1702JZ8EU1";"Maintenance Kit for TASKalfa 250ci";Kyocera;Printer;Maintenance-Kits;439,26;1;on stock;New;5711783372639
+"1702K00UN2";"MK-896B/MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;463,64;on request;on request;New;0632983028285
+"1702K38NL0";"Maintenance Kit for TASKalfa 250ci";Kyocera;Printer;Maintenance-Kits;251,99;on request;on request;New;5711783372639
+"1702K58NL0";"MK-671 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;228,78;on request;on request;New;0632983018071
+"1702K88NL0";"MK-580 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;486,60;on request;on request;New;0632983017593
+"1702K90UN2";"MK-8705DMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;85,54;on request;on request;New;0632983029008
+"1702KH0UN0";"MK-460/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;117,29;on request;on request;New;0632983015308
+"1702KR8NL0";"MK-726/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;418,08;on request;on request;New;0632983016503
+"1702KV8NL0";"MK-590 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;422,32;on request;on request;New;0632983017241
+"1702LC0UN0";"MK-8505A/MAINTENANCEFS-C8650/TASKalfa 4550ci/5550";Kyocera;Printer;Maintenance-Kits;521,76;on request;on request;New;0632983020807
+"1702LC0UN1";"MK-8505B/MAINTENANCEFS-C8650/TASKalfa 4550ci/5550";Kyocera;Printer;Maintenance-Kits;1360,08;on request;on request;New;0632983020814
+"1702LC0UN2";"MK-8505C/MAINTENANCEFS-C8650/TASKalfa 4550ci/5550";Kyocera;Printer;Maintenance-Kits;355,75;on request;on request;New;0632983020821
+"1702LF8KL1";"MK-6705C A / Maintenance Kit";Kyocera;Printer;Maintenance-Kits;302,38;on request;on request;New;
+"1702LH8KL0";"MK-6305A/MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;498,31;on request;on request;New;0632983020838
+"1702LK0UN0";"MK-8305A/MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;521,76;on request;on request;New;0632983020852
+"1702LK0UN1";"MK-8305B/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;1360,08;on request;on request;New;
+"1702LK0UN2";"MK-8305C/MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;355,75;on request;on request;New;0632983020876
+"1702LX0UN0";"MK-370 B MAINTENANCEKIT - ADF ROLLER KIT";Kyocera;Printer;Maintenance-Kits;54,58;on request;on request;New;0632983019689
+"1702LX8NL0";"MK-350 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;184,65;on request;on request;New;0632983019627
+"1702LY8NL0";"Maintenance Kit - 100.000 Pagesfor  FS-1120D";Kyocera;Printer;Maintenance-Kits;114,97;on request;on request;New;0632983018224
+"1702LZ8NL0";"MK-170/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;114,97;on request;on request;New;5711045463235
+"1702MJ0NL0";"MK-1130";Kyocera;Printer;Maintenance-Kits;114,97;on request;on request;New;0632983025123
+"1702ML0NL0";"MK-1140 MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;114,97;on request;on request;New;0632983025161
+"1702MS8NLV";"MK-3100";Kyocera;Printer;Maintenance-Kits;183,93;on request;on request;New;5711783349112
+"1702MT8NLV";"Maintenance Kit - 500.000 Pagesfor FS-4100DN";Kyocera;Printer;Maintenance-Kits;203,24;on request;on request;New;632983031766
+"1702MY0UN0";"MK-896A MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;524,12;on request;on request;New;0632983018941
+"1702N20UN0";"MK-8715A";Kyocera;Printer;Maintenance-Kits;374,78;on request;on request;New;0632983033340
+"1702N20UN1";"MK-8715BMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;661,99;on request;on request;New;0632983033357
+"1702N20UN2";"Maintenance Kit - 600.000 Pagesfor 6551ci";Kyocera;Printer;Maintenance-Kits;87,68;on request;on request;New;632983033371
+"1702N20UN3";"MK-8715EMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;239,22;on request;on request;New;0632983033388
+"1702N28NL0";"Maintenance Kit for 6551ci";Kyocera;Printer;Maintenance-Kits;278,67;on request;on request;New;0632983033364
+"1702N70UN0";"Maintenance Kit - 600.000 Pagesfor 6501i";Kyocera;Printer;Maintenance-Kits;355,75;on request;on request;New;5711783158646
+"1702N78NL0";"MK-6715C MAINENANCEKIT";Kyocera;Printer;Maintenance-Kits;302,38;on request;on request;New;0632983033111
+"1702N98NL1";"MK-6315 AMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;493,48;on request;on request;New;0632983033180
+"1702NH8NL1";"MK-8725A";Kyocera;Printer;Maintenance-Kits;1010,23;on request;on request;New;0632983058039
+"1702NL8NL0";"MK-7105";Kyocera;Printer;Maintenance-Kits;499,19;on request;on request;New;0632983031131
+"1702NP0UN0";"MK-8325A MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;398,41;on request;on request;New;0632983031780
+"1702NP0UN1";"MK-8325B";Kyocera;Printer;Maintenance-Kits;441,09;on request;on request;New;0632983032015
+"1702NR8NL1";"MK - 5140 - Maintenance Kit for ECOSYS - P6230cdn";Kyocera;Printer;Maintenance-Kits;308,24;1;on stock;New;
+"1702NS8NL2";"MK-5150";Kyocera;Printer;Maintenance-Kits;468,57;on request;on request;New;0632983054086
+"1702NS8NL3";"MK-5155";Kyocera;Printer;Maintenance-Kits;457,14;on request;on request;New;
+"1702NT8NL0";"MK-5160";Kyocera;Printer;Maintenance-Kits;808,27;on request;on request;New;0632983033944
+"1702NX8NL0";"MK-3150/MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;184,65;on request;on request;New;0632983033715
+"1702P10UN0";"MK-6110";Kyocera;Printer;Maintenance-Kits;25,55;on request;on request;New;0632983041543
+"1702P18NL0";"MK-6115 Maintenance-Kitfor Ecosys M4125idn";Kyocera;Printer;Maintenance-Kits;251,99;on request;on request;New;
+"1702P30UN0";"Maintenance Kit - MK-8115A";Kyocera;Printer;Maintenance-Kits;524,12;on request;on request;New;
+"1702P30UN1";"MK-8115BMaintenance Kit";Kyocera;Printer;Maintenance-Kits;463,64;on request;on request;New;
+"1702P60UN0";"Maintenance Kit - 200.000 Pages for M3040IDN";Kyocera;Printer;Maintenance-Kits;54,58;1;on stock;New;0632983031889
+"1702P78NL0";"MK-7300MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;635,58;on request;on request;New;0632983033494
+"1702R40UN0";"MK-5195B";Kyocera;Printer;Maintenance-Kits;457,72;on request;on request;New;
+"1702R58NL0";"MK-5205AMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;561,23;on request;on request;New;0632983035238
+"1702RL0UN0";"MK-8335BMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;326,95;on request;on request;New;0632983038017
+"1702RL0UN1";"MK-8335D";Kyocera;Printer;Maintenance-Kits;817,83;on request;on request;New;0632983043349
+"1702RL0UN2";"MK-8335E";Kyocera;Printer;Maintenance-Kits;297,31;on request;on request;New;0632983043356
+"1702RL0UN3";"MK-8335AMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;109,01;1;on stock;New;0632983038024
+"1702RV0NL0";"MK-1150/MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;135,80;2;on stock;New;632983040355
+"1702T68NL0";"MK-3170";Kyocera;Printer;Maintenance-Kits;237,56;on request;on request;New;0632983042526
+"1702T98NL0";"MK-3160 MAINTENANCEKIT";Kyocera;Printer;Maintenance-Kits;220,13;on request;on request;New;0632983042564
+"1702TA8NL0";"MK-3300";Kyocera;Printer;Maintenance-Kits;203,24;1;on stock;New;
+"1702V38NL0";"MK-3060";Kyocera;Printer;Maintenance-Kits;184,65;on request;on request;New;
+"1702V80KL0";"MK-8525A";Kyocera;Printer;Maintenance-Kits;1090,35;on request;on request;New;0632983059180
+"1702V80KL1";"MK-8525BMAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;908,68;on request;on request;New;0632983059197
+"1702VK0KL0";"MK-6335";Kyocera;Printer;Maintenance-Kits;726,94;1;on stock;New;0632983059210
+"1703M80UN0";"MK-470 MAINTENANCE KIT";Kyocera;Printer;Maintenance-Kits;25,55;on request;on request;New;0632983023082
+"1703R40UN0";"MK-5200";Kyocera;Printer;Maintenance-Kits;52,21;1;on stock;New;0632983036457
+"18KYH";"CADDY EQUALLOGIC 2.5";Dell;;Sonstiges;13,50;81;in field warehouse;Refurbished;
+"1902K90UN0";"Waste Toner Bottle - 500.000 Pagesfor 6500i";Kyocera;Printer;Resttonerbehälter & Zubehör;10,00;2;on stock;New;0632983024973
+"1902ND0UN0";"WT-8500Waste Toner Bottle";Kyocera;Printer;Maintenance-Kits;8,30;on request;on request;New;
+"1903JY0000";"SH-10 HEFTKLAMMERN3x5000 STK";Kyocera;Printer;Sonstige Druckerersatzteile;on request;on request;on request;New;0632983009192
+"1903NB0UN0";"SH-12 STAPLE HOLDER";Kyocera;Printer;Sonstige Verbrauchsmaterialien;on request;on request;on request;New;0632983020524
+"1950GHD-2USB-R";"Barcode Scanner Xenon Performance 1950g - High Density";Honeywell;Various;Handheld Scanner;90,00;1;on stock;New;5706998759818
+"1950GSR-2USB-R";"Barcode Scanner Xenon Performance 1950g - Standard Range";Honeywell;Various;Handheld Scanner;117,60;72;in field warehouse;New;4059312120230
+"1952GHD-2USB-5BF-R";"Barcode Scanner Xenon Extreme Performance 1952g - High Density - USB Kit";Honeywell;;Handheld Scanner;387,74;1;on stock;New;5704174081340
+"1952GSR-2USB-5-R";"Barcode Scanner Xenon Extreme Performance 1952g - Standard Range";Honeywell;Printer;Handheld Scanner;300,00;75;in field warehouse;New;
+"19U64AA";"Wireless Mouse - 280 - Silent ";HP Inc.;Desktop;Mäuse;on request;on request;on request;New;
+"1AA81A4";"Display Z32 31.5inch UHD LED IPS AG";HP Inc.;;Displays/Bildschirme;on request;on request;on request;New Bulk;0190781013716
+"1AA81A4";"Display Z32 31.5inch UHD LED IPS AG";HP Inc.;;Displays/Bildschirme;on request;on request;on request;New;0190781013716
+"1AJ39AA";"Nano Keyed Cable Lock for Notebooks";HP Inc.;Notebook;Diebstahlschutz;19,50;3;on stock;New;0190781049425
+"1B9T0AA ABB";"LED-Monitor - 68.6 cm (27"") - 3840 x 2160 - 4K - 60 Hz- 4K - 60Hz - IPS - 5ms - 60Hz - HDMI";HP Inc.;Desktop;Monitore;on request;on request;on request;New;0195122249748
+"1B9X2AA ABB";"LED-Monitor - Z27u G3 - 68.6cm - 27""- 2560 x 1440 - QHD - 60 Hz";HP Inc.;Desktop;Monitore;on request;on request;on request;New;0195122252458
+"1C1Y5AA#ABB";"Travel Hub - Port Replicator- USB-C - VGA - HDMI";HP Inc.;Notebook;Dockingstations/Port Replikatoren;on request;on request;on request;New;0195122255237
+"1C4Z7AA#ABB";"LED Monitor Z27q G3 - 27 Inch - 2560x 1440 QHD @ 60 Hz - Silver";HP Inc.;Desktop;Monitore;on request;on request;on request;New;0195122261146
+"1C9J6AA";"Power Supply for ZCentral 4R 2nd- 675W ";HP Inc.;Desktop;Netzteile/Stromversorgung;90,40;3;on stock;New;0195122267476
+"1CA53AA";"Disk Drive - DVD±RW (±R DL) - 8x/8x- Serial ATA - internal - 5.25""";HP Inc.;Desktop;Interne Laufwerke;on request;on request;on request;New;190781124023
+"1CA75AA";"Memory Module - DDR4 - DIMM 288-PIN- 16 GB - 2400 MHz - 2400 MHz for PC4-19200";HP Inc.;Desktop;Speichermodule/RAM;124,06;2;on stock;New;0191628009589
+"1CA80AA";"DDR4 Memory - 8 GB - DIMM 288-PIN- 2400MHz - PC4-19200 Workstation Z240";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;Refurbished;0190781609414
+"1CA80AA";"DDR4 Memory - 8 GB - DIMM 288-PIN- 2400MHz - PC4-19200 Workstation Z240";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;0190781609414
+"1CJF5-COMPELLENT";"HDD - 3TB - 7.2K - 3.5 - SAS - 6G - 7.200 rpm";Dell;Server/Storage/Network;HDD;20,25;180;in field warehouse;Refurbished;
+"1D0H6AA";"256 GB SSD - internal - M.2- PCI Express 3.0 x4 (NVMe)";HP Inc.;Desktop;SSD;33,03;on request;on request;New;
+"1D0H7AA";"SSD 512GB for ZBook 14 15 17 - PCIExpress 3.0 x4 (NVMe)";HP Inc.;Desktop;SSD;128,78;2;on stock;New;195122270735
+"1E4-00002";"Dockingstation USB-C Travel Hub";Microsoft;;Dockingstations/Port Replikatoren;56,50;on request;arriving soon;New;0889842635065
+"1E7D6AA";"Notebook Backpack 39.6cm - 15.6 Inch";HP Inc.;Notebook;Notebook Taschen;13,40;4;on stock;New;0195122282769
+"1E7D7AA";"Notebook Case Prelude Top Load- 15.6 Inch -  Black / Grey";HP Inc.;Notebook;Notebook Taschen;11,45;2;on stock;New;0195122282776
+"1FK05AA";"Backpack Classic - 15.6";HP Inc.;Notebook;Notebook Taschen;18,00;on request;on request;New;190781262923
+"1FK07AA";"Notebook Bag - Classic Briefcase - 39.62cm - 15.6 Inch";HP Inc.;Notebook;Notebook Taschen;on request;on request;on request;New;0190781262961
+"1FU87AA#AC3";"256GB SSD - internal - M2 - PCI Express 3.0";HP Inc.;;SSD;on request;on request;on request;New Bulk;
+"1FU87AA#AC3";"256GB SSD - internal - M2 - PCI Express 3.0";HP Inc.;;SSD;on request;on request;on request;New Bulk;
+"1FU87AA#AC3";"256GB SSD - internal - M2 - PCI Express 3.0";HP Inc.;;SSD;on request;on request;on request;New;
+"1GK-00003";"Surface Connect 2 Dockingstation - 2 x USB-C - GigE";Microsoft;Notebook;Dockingstations/Port Replikatoren;202,11;4;in field warehouse;New;0889842636468
+"1HE07AA";"Power Adapter - USB-C G2 - 45W";HP Inc.;Notebook;Notebook Ladegeräte/Netzteile;30,95;10;on stock;New;5706998573025
+"1HE08AA ABB";"Charger Power Adapter - 65W- USB-C for Notebooks & Tablets";HP Inc.;Notebook;Notebook Ladegeräte/Netzteile;on request;on request;on request;New;5706998279972
+"1HGDK";"Backplane Expansion Board";Dell;Notebook;Gehäuse;10,00;2;on stock;New;
+"1JR31AA";"Mouse Wireless Premium - 2.4 GHz";HP Inc.;Desktop;Mäuse;on request;on request;on request;New;0190781464495
+"1ME01AA";"NVIDIA Quadro P1000 Graphic Card- 4GB GDDR5 - 128 Bit";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New;0003200600339
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New Bulk;0190781617211
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New Bulk;0190781617211
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;Neu;0190781617211
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;Refurbished;0190781617211
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New;0190781617211
+"1ME43AA";"NVIDIA Graphics Cards Quadro P400 - PCIe 3.0 - 2GB";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;Refurbished;0190781617211
+"1MR61AA ABB";"Notebook bag - 39.62 cm -15.6""";HP Inc.;Notebook;Notebook Taschen;on request;on request;on request;New;0190781636854
+"1MVTT";"4TB 7.2K 3.5 SAS 12G MG04SCA40ENY ME4 SERIES";Dell;;HDD;81,00;23;in field warehouse;Refurbished;
+"1MY15AA";"Desk Pad XXL - 400 x 900 mmfor OMEN 25L";HP Inc.;Desktop;Mauspads;25,20;1;on stock;New;
+"1P1PG";"Poweredge R640 - Chassisonly";Dell;Server/Storage/Network;Gehäuse;5,00;1;on stock;New;
+"1P3K6AA#ABB";"AC Adapter - 65 W - Europa";HP Inc.;Notebook;Notebook Ladegeräte/Netzteile;on request;on request;arriving soon;New;0195122442972
+"1PD51AA";"SSD for Z8 G4 - 512 GB - intern - M.2 Turbo Drive G2";HP Inc.;Desktop;SSD;123,94;6;on stock;New;190781704287
+"1PD60AA";"Z Turbo Drive SSD 512GB for WorkstationZ4 G4 - PCI Express 3.0 x4 (NVMe)";HP Inc.;Desktop;SSD;54,00;2;on stock;New;190781704379
+"1PD61AA";"SSD - 1TB - Z Turbo Drive G2 - intern - M.2- PCI Express 3.0 - x4 NVMe";HP Inc.;;SSD;200,00;on request;on request;New;0190781704386
+"1PM64AA";"Dockingstation  - mini - USB-C- VGA - HDMI";HP Inc.;Notebook;Dockingstations/Port Replikatoren;on request;on request;on request;Neu;5704174126126
+"1PM64AA";"Dockingstation  - mini - USB-C- VGA - HDMI";HP Inc.;Notebook;Dockingstations/Port Replikatoren;on request;on request;on request;New;5704174126126
+"1PM64UT";"Mini Docking Station - USB Type-C";HP Inc.;Notebook;Dockingstations/Port Replikatoren;on request;on request;on request;Neu;
+"1PM64UT";"Mini Docking Station - USB Type-C";HP Inc.;Notebook;Dockingstations/Port Replikatoren;on request;on request;on request;New;
+"1PV64-60002";"PCA-M529 FORMATTER";HP Inc.;Printer;Druckerelektronik/Platinen;210,97;on request;on request;New;
+"1PV87-60001";"HP PCA-Formatter";HP Inc.;Printer;Druckerelektronik/Platinen;147,35;on request;on request;New;
+"1PV87-60002";"PCA-M507dn Formatter";HP Inc.;Printer;Mainboards/Systemboards;149,33;on request;on request;New;5704174034315
+"1PV87A B19";"LaserJet Enterprise M507dn - Printer - s/w";HP Inc.;Printer;Druckergeräte;on request;on request;on request;New;
+"1QL49AA";"Z Dual Port Module Networkadapter- 10Gb Ethernet x 2";HP Inc.;Server/Storage/Network;Ethernet-/Netzwerkzubehör;139,00;7;on stock;New;190781769347
+"1T02K90NL0";"Toner Kit - TK 8705K - 70.000 Pagesfor 6550ci";Kyocera;Printer;Toner;15,00;2;on stock;New;0632983021170
+"1T02MS0NL0";"TK-3100 - Black - Original for ECOSYS M3040";Kyocera;Printer;Toner;88,45;1;on stock;New;
+"1T02ND0NL0";"Toner Cartridge TK 8515K - Black- Original";Kyocera;Printer;Toner;50,00;2;on stock;Neu Damaged Box;0632983038437
+"1T02ND0NL0";"Toner Cartridge TK 8515K - Black- Original";Kyocera;Printer;Toner;on request;on request;on request;New;0632983038437
+"1T8KW";"1.2TB 10K 2.5 SAS 12G HUC101812CSS204";Dell;;HDD;60,75;2;in field warehouse;Refurbished;
+"1VD82AA";"Adapter - G3 Serial - PCIe - PS 2- 800 - 600 - 400";HP Inc.;Notebook;Display Kabel & Anschlüsse;on request;on request;on request;New;0190781889007
+"1VRGY";"8GB 1Rx8 PC4-21300V-R DDR4-2666MHz";Dell;Server/Storage/Network;Speichermodule/RAM;22,95;272;in field warehouse;Refurbished;
+"1W7HC";"600GB 15K 2.5 SAS 12G AL14SXB60ENY";Dell;;HDD;54,00;143;in field warehouse;Refurbished;5706998881892
+"1WC36AA";"External Video AdapterUSB-C to HDMI 2.0 - Black";HP Inc.;Notebook;USB-Kabel/Adapter;on request;on request;on request;New;0190781926740
+"1X644AA";"Recycled Backpack - 39.6cm";HP Inc.;;Notebook Taschen;23,20;5;on stock;New;0194850442308
+"1X645AA";"Prelude Pro Recycle Top Load";HP Inc.;Desktop;Notebook Taschen;17,00;5;on stock;New;0194850442315
+"1XD84AA";"Ram - DDR4 - Modul - 8 GB - DIMM 288-PIN- 2666 MHz / PC4-21300";HP Inc.;Desktop;Speichermodule/RAM;52,37;3;on stock;New;190781971023
+"1XD85AA";"16GB DDR4 2666 DIMM Speicher";HP Inc.;Server/Storage/Network;Speichermodule/RAM;96,00;1;on stock;New;0190781971030
+"1XD86AA";"DDR4 - Modul - 32 GB - DIMM 288-PIN - 2666 MHzPC4-21300 - 1.2 V - registered - ECC";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New Bulk;190781971047
+"1XD86AA";"DDR4 - Modul - 32 GB - DIMM 288-PIN - 2666 MHzPC4-21300 - 1.2 V - registered - ECC";HP Inc.;Desktop;Speichermodule/RAM;on request;on request;on request;New;190781971047
+"1XGPD";"Fan - Assy - 60X60 - 12V - SUNON - R830";Dell;Server/Storage/Network;Kühler/Lüfter;2,50;5;on stock;New;
+"1XM33AA";"Fan & Front Card Guide Kitfor Workstation Z4 G4";HP Inc.;Desktop;Kühler/Lüfter;22,14;8;on stock;New;0192545003926
+"1XM34AA";"Memory Cooling Kit - for Workstation Z4 G4";HP Inc.;Notebook;Kühler/Lüfter;29,99;1;on stock;New;0192545003933
+"1Y4D0AA#ABD";"Wireless Mouse and KeyboardCombo - German";HP Inc.;Desktop;Tastatur & Maus Sets;23,66;on request;arriving soon;New;
+"207325-12";"Headset - On-Ear - Savi8200 Series W8220/A ";Poly;Desktop;Kopfhörer/Headsets;187,00;1;on stock;New;5033588052135
+"2078-ACN2";"Flash Drive SSD - 7.68TB - 2.5in - 12GB - SAS ";IBM;;SSD;877,50;4;in field warehouse;Refurbished;
+"20W5S7QC01";"ThinkPad T15 G2 - i5-1135G7 - 16GB - 512GB - WWAN N";Lenovo;Notebook;Notebooks/Laptops;977,90;15;in field warehouse;New;0197532143616
+"20X22AA";"Graphicscard NVIDIA Quadro T1000- 4GB GDDR6 - PCIe 3.0 x16";HP Inc.;Desktop;Grafikkarten;315,00;2;on stock;New;195122692186
+"20X23AA";"Graphic Card - NVIDIA RTX A5000 - 24 GB - GDDR6- 384-bit - 230 W";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New;195122692209
+"20X24AA";"Graphicscard NVIDIA RTX A4000- 16GB GDDR6 - PCIe 4.0 x16";HP Inc.;Desktop;Grafikkarten;on request;on request;on request;New;0195122692223
+"210-AXKW";"LED-Monitor - 27 Inch DELL-S2721DS- 2560 x 1440 - 75 Hz";Dell;Entertainment Electronics;Monitore;199,00;2;on stock;New;5397184409411
+"213349-001";"Power Cord - Black - 3.0M ";HP Inc.;Desktop;Stromkabel;on request;on request;on request;New;
+"213349-009";"Power Cord C5 Connector - 1m";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213349-009";"Power Cord C5 Connector - 1m";HP Inc.;Notebook;Stromkabel;45,59;on request;on request;New;
+"213350-001";"AC POWER CORD,EUROPEANMMMM";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213350-001";"AC POWER CORD,EUROPEANMMMM";HP Inc.;Notebook;Stromkabel;42,87;on request;on request;New;
+"213350-009";"POWER CORD BLACK 3-WIRE1.0M LONG";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"213350-011";"POWER CORD 3 WIRE CONDUCTORC5 CONNECTOR (EUROPE)";HP Inc.;Server/Storage/Network;Stromkabel;46,28;on request;on request;New;
+"213350-209";"Cabel - Power Cord - C5 - 1.0M -  Stkr Con";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"213351-001";" POWER CORD 3-WIRE 1.8M FOR UK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213351-001";" POWER CORD 3-WIRE 1.8M FOR UK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"213351-008";"Notebook Power Cord 3-Wire IEC 60320 C5- 1m - Black";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213351-008";"Notebook Power Cord 3-Wire IEC 60320 C5- 1m - Black";HP Inc.;Notebook;Stromkabel;47,24;on request;on request;New;
+"213351-008";"Notebook Power Cord 3-Wire IEC 60320 C5- 1m - Black";HP Inc.;Notebook;Stromkabel;on request;on request;on request;Refurbished;
+"213352-001";" POWER CORD ITALIAN AC3PIN";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213352-001";" POWER CORD ITALIAN AC3PIN";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"213352-008";" COMPAQ PAVILION POWER CORD";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213352-008";" COMPAQ PAVILION POWER CORD";HP Inc.;Notebook;Stromkabel;45,65;on request;on request;New;
+"213353-001";" POWER CABLE 107-2-D1";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213353-001";" POWER CABLE 107-2-D1";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New;
+"213353-008";" POWER CORD AC LINE DENMARK";HP Inc.;Notebook;Stromkabel;on request;on request;on request;New Bulk;
+"213353-008";" POWER CORD AC LINE DENMARK";HP Inc.;Notebook;Stromkabel;46,12;on request;on request;New;
