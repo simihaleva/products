@@ -56,7 +56,8 @@ public function deleteAllData(): void
         $resultSet = $conn->executeQuery($sql);
     }
 
-    public function findMinPrice(): array{
+    public function findMinPrice(): array
+    {
         $qb = $this->createQueryBuilder('p')
         ->select('min(p.price)');
 
@@ -64,7 +65,8 @@ public function deleteAllData(): void
         return $query->execute();
     }
 
-    public function findMaxPrice(): array{
+    public function findMaxPrice(): array
+    {
         $qb = $this->createQueryBuilder('p')
         ->select('max(p.price)');
 
@@ -72,7 +74,8 @@ public function deleteAllData(): void
         return $query->execute();
     }
 
-    public function findAvgPrice(): array{
+    public function findAvgPrice(): array
+    {
         $qb = $this->createQueryBuilder('p')
         ->select('avg(p.price)');
 
@@ -80,13 +83,12 @@ public function deleteAllData(): void
         return $query->execute();
     }
 
-    public function findUniqueManufacturers(): array{
+    public function findUniqueManufacturers(): array
+    {
             $qb = $this->createQueryBuilder('p')
             ->select('DISTINCT(p.manufacturer)');
     
             $query = $qb->getQuery();
            return $query->getArrayResult();
-         //   return $query->execute()
-            ;
         }
 }
